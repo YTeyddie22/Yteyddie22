@@ -1,4 +1,4 @@
-# Hello, I am Teddy Yongo -👋
+# Hello, I am Teddy Yongo 👋
 
 ## I'm a Software Engineer and an undergraduate student.
 
