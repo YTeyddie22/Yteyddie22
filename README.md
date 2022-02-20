@@ -14,6 +14,8 @@
 
 [<img align="left" alt="Teyddie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="Teyddie | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 <br />
 
 ### Languages and Tools:
@@ -83,3 +85,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/teddy-yongo-4181111b1/
+[twitter]:https://twitter.com/YTeyddie22
