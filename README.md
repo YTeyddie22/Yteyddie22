@@ -73,7 +73,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTeyddie22&show_icons=true&theme=blue-green)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTeyddie22&layout=compact)](https://github.com/YTeyddie22/github-readme-stats)---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTeyddie22&layout=compact&theme=blue-green)](https://github.com/YTeyddie22/github-readme-stats)
+---
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YTeyddie22&theme=dracula)](https://github.com/github22/github-readme-activity-graph)
 
