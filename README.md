@@ -18,6 +18,8 @@
 
 <br />
 
+
+
 ### Languages and Tools
 
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/353884/html-5.svg" />]
@@ -55,6 +57,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YTeyddie22&theme=dracula)](https://github.com/github22/github-readme-activity-graph)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
