@@ -36,10 +36,10 @@
 [<img align="left" alt="MySQL" width="26px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />]
 [<img align="left" width="26px" src="https://www.svgrepo.com/show/373482/c.svg" />]
 [<img align="left" width="26px" src="https://www.svgrepo.com/show/184143/java.svg" />]
-[<img align="left" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />]
 [<img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />]
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />]
 
+[<img align="left" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />]
 [<img align="left" alt="Intellij" width="30px" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" />]
 
