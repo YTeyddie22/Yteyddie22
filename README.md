@@ -41,6 +41,7 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />
 <img align="left" alt="Intellij" width="30px" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" />
 <br><br>
+<img align="left" alt="Terminal" width="30px" src="https://www.svgrepo.com/show/448236/linux.svg" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
 
