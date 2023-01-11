@@ -6,7 +6,7 @@
 -    I am still working around Javascript 😉.
 -    I am also working around React and Node
 - 💓 I love playing with dogs and engage in sporting activities such as football and rugby.
-- 👯 Helping the community in any way that can cause an impact to the society is my major goal.
+- 👯 Helping the community in any way that can cause an impact is my major goal.
 - 🥅 Contributing more to Open Source projects is another major task in my journey of 2023
 
 ### 📱Connect with me:
