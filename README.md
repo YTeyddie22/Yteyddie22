@@ -1,6 +1,6 @@
 # Hello, I am Teddy Yongo 👋
 
-## I'm a Software Engineer and an undergraduate student.
+## I'm a Software Engineer.
 
 - 💻 I’m currently trying to learn everything related to software engineering.
 -    I am still working around Javascript 😉.
