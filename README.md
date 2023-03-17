@@ -3,11 +3,11 @@
 ## I'm a Software Engineer.
 
 - 💻 I’m currently trying to learn everything related to software engineering.
--    I am still working around Javascript 😉.
--    I am also working around React and Node
+-    I am working around Javascript 😉.
+-    I am also learning php,python,React and Node
 - 💓 I love playing with dogs and engage in sporting activities such as football and rugby.
 - 👯 Helping the community in any way that can cause an impact is my major goal.
-- 🥅 Contributing more to Open Source projects is another major task in my journey of 2023
+
 
 ### 📱Connect with me:
 
