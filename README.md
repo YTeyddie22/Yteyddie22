@@ -54,8 +54,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTeyddie22&layout=compact&theme=blue-green)](https://github.com/YTeyddie22/github-readme-stats)
 ---
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YTeyddie22&theme=dracula)](https://github.com/github22/github-readme-activity-graph)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
