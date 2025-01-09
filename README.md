@@ -1,7 +1,5 @@
 # Hello, I am Teddy Yongo 👋
 
-## I'm a Software Engineer.
-
 - 💻 I’m currently trying to learn everything related to software engineering.
 -    I am working around Javascript 😉.
 -    I am also learning php, python, React and Node
