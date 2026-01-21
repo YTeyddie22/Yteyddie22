@@ -1,9 +1,8 @@
 # Hello, I am Teddy Yongo 👋
 
-- 💻 I’m currently trying to learn everything related to software engineering.
--    I am working around Javascript 😉.
--    I am also learning php, python, React and Node
-- 💓 I love playing with dogs and engage in sporting activities such as football and rugby.
+-    I’m currently trying to learn everything related to software engineering.
+-    I am working mostly with the JavaScript ecosystem 😉.
+-    I am also learning PHP, Python, and Rust
 - 👯 Helping the community in any way that can cause an impact is my major goal.
 
 
