@@ -1,7 +1,7 @@
 # Hello, I am Teddy Yongo 👋
 
 -    I work mostly with the JavaScript ecosystem 😉.
-- 👯 Helping the community in any way that can cause an impact is my major goal.
+-    Helping the community in any way that can cause an impact is my major goal.
 
 
 ### 📱Connect with me:
