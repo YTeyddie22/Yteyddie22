@@ -1,7 +1,6 @@
 # Hello, I am Teddy Yongo 👋
 
--    I’m currently trying to learn everything related to software engineering.
--    I am working mostly with the JavaScript ecosystem 😉.
+-    I work mostly with the JavaScript ecosystem 😉.
 - 👯 Helping the community in any way that can cause an impact is my major goal.
 
 
