@@ -34,11 +34,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/teddy-yongo-4181111b1/
-[twitter]:https://twitter.com/YTeyddie22
+-----
