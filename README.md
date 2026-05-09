@@ -1,19 +1,8 @@
 # Hello, I am Teddy Yongo 👋
 
--    I work mostly in the JavaScript ecosystem 😉.
--    Helping the community in any way that can cause an impact is my major goal.
+-    IMPACT is Everything
 
-
-### 📱Connect with me:
-
-
-[<img align="left" alt="Teyddie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="Teyddie | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-
+--- 
 
 ### Languages and Tools
 
@@ -42,12 +31,6 @@
 
 
 -----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTeyddie22&show_icons=true&theme=blue-green)
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTeyddie22&layout=compact&theme=blue-green)](https://github.com/YTeyddie22/github-readme-stats)
----
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
